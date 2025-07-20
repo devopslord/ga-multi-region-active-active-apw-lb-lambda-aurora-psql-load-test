@@ -4,7 +4,7 @@ region2 = "eu-west-1"
 
 domain_name = "demo.devopslord.com"
 
-project_name = "t360"
+project_name = "multi-region"
 
 acm_certificate_arn_primary = "arn:aws:acm:us-east-1:058264281740:certificate/72df42fe-5ebb-475d-bbfb-c80dab7c3038"
 
